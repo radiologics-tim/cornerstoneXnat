@@ -1,12 +1,9 @@
-Cornerstone Demo
+CornerstoneXnat
 ================
 
-Demonstration application that shows how to use the various cornerstone components together.  
+Demonstration application that shows how to use cornerstone to view images on an XNAT server
 
-[View the live demo here](http://chafey.github.io/cornerstoneDemo/)
-
-
-The source code for this application is in the [gh-pages branch](https://github.com/chafey/cornerstoneDemo/tree/gh-pages)
+For more information and source code, please see the [gh-pages branch](https://github.com/tomdoel/CornerstoneXnat/tree/gh-pages)
 
 
 
